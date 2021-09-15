@@ -1,3 +1,4 @@
+// Please add api_key here
 export const REACT_APP_MOVIE_DB_API_KEY= "";
 export const REACT_APP_API_DOMAIN= "https://api.themoviedb.org/3/movie/popular?";
 export const REACT_APP_API_DOMAIN_SEARCH= "https://api.themoviedb.org/3/search/movie?";
